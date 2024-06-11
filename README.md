@@ -3,7 +3,10 @@
 ![KakaoTalk_Photo_2024-06-11-22-33-03](https://github.com/channnny/interpark-macro/assets/30282985/273fc49e-0619-4610-9cf1-96fe56b790ef)
 
 
- ## 파라미터
+파이썬으로 구동하며 0~1초 사이 무작위 시간을 간격으로 좌석을 확인하여(새로고침) 원하는 좌석의 등급 및 인원수에 맞는 좌석을 예매할 때까지 반복하는 인터파크 취켓팅 매크로이다.
+
+
+ ## Parameter
  `main.py` 파일에서 설정할 수 있다.
  | Parameter | DataType | Default | Desc |
 | :----- | :---- | :---- | :---------- |
