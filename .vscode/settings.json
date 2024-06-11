@@ -1,9 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./controller",
-        "./view"
-    ],
-    "files.exclude": {
-        "**/__pychache__": true
-    }
-}
